@@ -1,0 +1,6 @@
+[submodule "silabs-bluetooth"]
+	path = silabs-bluetooth
+	url = https://github.com/antonio-tr/silabs-bluetooth
+[submodule "silabs-baremetal"]
+	path = silabs-baremetal
+	url = https://github.com/antonio-tr/silabs-baremetal
