@@ -4,3 +4,6 @@
 [submodule "silabs-baremetal"]
 	path = silabs-baremetal
 	url = https://github.com/antonio-tr/silabs-baremetal
+[submodule "silabs-zigbee"]
+	path = silabs-zigbee
+	url = https://github.com/antonio-tr/silabs-zigbee
