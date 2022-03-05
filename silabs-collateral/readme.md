@@ -11,7 +11,7 @@ This file lists a series of links to the public collateral that I've generated a
 - [**SiliconLabs / application_examples**][SILABS_APPLICATION_EXAMPLES_REPO_LINK]
   - *Platform applications*
     - [Guitar and Ukulele tuner example][GUITAR_AND_UKULELE_TUNER_EX_LINK]
-    - RHT sensor Si7021 example (Pending publishing, see personal [LINK][BAREMETAL_RHT_SENSOR_EX_PERSONAL_LINK])
+    - [RHT sensor Si7021 example][RHT_SENSOR_BAREMETAL_EX_LINK]
   - *Platform hardware drivers*
     - [TB6549FG motor driver][TB6549FG_DRIVER_EX_LINK]
   - *Bluetooth stack features*
@@ -50,6 +50,8 @@ This file lists a series of links to the public collateral that I've generated a
 [SILABS_APPLICATION_EXAMPLES_REPO_LINK]:https://github.com/SiliconLabs/application_examples
 
 [GUITAR_AND_UKULELE_TUNER_EX_LINK]: https://github.com/SiliconLabs/platform_applications/tree/aa6d79d0c0a5fb9b054d7277912af7d863c975bb/platform_guitar_and_ukulele_tuner
+
+[RHT_SENSOR_BAREMETAL_EX_LINK]: https://github.com/SiliconLabs/platform_applications/tree/b8045d404a38ea775876ea852a88a6b048d217e5/platform_rht_baremetal
 
 [TB6549FG_DRIVER_EX_LINK]:https://github.com/SiliconLabs/platform_hardware_drivers/tree/master/dc_motor_driver_tb6549fg
 
