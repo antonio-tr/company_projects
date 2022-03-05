@@ -2,6 +2,10 @@
 
 This file lists a series of links to the public collateral that I've generated as an Applications Engineer at Silicon Laboratories.
 
+## Trainings ##
+- **Wireless Connectivity Series Tech Talks**
+  - [Proprietary Sub-GHz Leaping RF Performance and Improving Low Power Performance with FG23][TECH_TALK_LINK]
+
 ## Public GitHub repository contributions ##
 
 - [**SiliconLabs / application_examples**][SILABS_APPLICATION_EXAMPLES_REPO_LINK]
@@ -54,3 +58,5 @@ This file lists a series of links to the public collateral that I've generated a
 [SED_RHT_SENSOR_EX_LINK]:https://github.com/SiliconLabs/zigbee_applications/tree/master/zigbee_sed_rht_sensor
 
 [BAREMETAL_RHT_SENSOR_EX_PERSONAL_LINK]:https://github.com/antonio-tr/silabs-baremetal/tree/main/platform_rht_baremetal
+
+[TECH_TALK_LINK]:https://www.silabs.com/support/training/proprietary-sub-ghz-leaping-rf-performance-and-improving-low-power-performance-with-fg23
